@@ -1,0 +1,12 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "a to do list app",
+  "main": "index.js",
+  "scripts": {
+    "server":"node index.js",
+    "test": " "
+  },
+  "author": "angel",
+  "license": "ISC"
+}
